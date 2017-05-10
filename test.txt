@@ -1,1 +1,3 @@
-just for test
+this is my first time to use notepad++
+add a new line
+add a new line again
